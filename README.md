@@ -12,6 +12,9 @@
 
 <p align="left">My name is Morgan and I'm a Web Developer, from Surabaya</p>
 
+You can check out my projects and portfolios here:
+https://diphsfolio.vercel.app/
+
 ###
 
 <h2 align="left">About me</h2>

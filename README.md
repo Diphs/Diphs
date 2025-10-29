@@ -21,7 +21,7 @@ https://diphsfolio.vercel.app/
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Go, Laravel, and modern web architecture<br>🎯 Goals: Build scalable apps and contribute to open-source projects<br>🎲 Fun fact: I fix my bugs by creating new ones first 😆</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Go, Laravel, and modern web architecture<br>🎯 Goals: Build scalable apps and contribute to open-source projects<br>🎲 Fun fact: I fix my bugs by creating new ones first 😆</p>
 
 ###
 
